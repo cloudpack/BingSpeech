@@ -1,0 +1,9 @@
+{
+  "name": "BingSpeech",
+  "version": "1.0.0",
+  "description": "A small JavaScript library to call Bing Speech-To-Text API with continuous voice detection and Text-To-Speech API created by davrous(https://github.com/davrous/BingSpeech)",
+  "main": "BingSpeech.js",
+  "repository": "https://github.com/davrous/BingSpeech",
+  "author": "n-futagami <n-futagami@cloudpack.jp>",
+  "license": "MIT"
+}
